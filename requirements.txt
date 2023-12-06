@@ -1,2 +1,3 @@
 folium==0.15.1
 osmnx==1.8.0
+scikit-learn
